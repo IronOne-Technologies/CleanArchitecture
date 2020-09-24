@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CleanArchitecture</string>
+    <string name="text_edit_button">Edit</string>
+    <string name="text_add_button">Add</string>
+    <string name="text_cancel_button">Cancel</string>
+    <string name="text_save_button">Save</string>
+    <string name="text_update_button">Update</string>
+
+
+    <string name="hint_name">Name</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_telephone">Telephone</string>
+    <string name="hint_email">Email</string>
+
+    <string name="title_add_a_contact">Add Contact</string>
+    <string name="title_update_a_contact">Update Contact</string>
+
+
+    <string name="error_message_field_can_not_empty">This field cannot be empty.</string>
+</resources>
